@@ -1,0 +1,54 @@
+[05/10, 3:53 pm] Abhishek Bhatt CTS: 1. Various input files to have work on
+2. Difference between 1to many and 1 to 1 merger.
+3. Date format manipulations 
+4. Various outputs which you have generated.
+5. Difference between PDF and the Tno.
+6. How to read pdf input. 
+7. What is the use case of sheetnames.
+8. Different types of flows in layout.
+9. How to read a tsd file.
+10. What is the difference between XML and JSON files.
+11. How to read multiple input data files.
+12. How to generate output builds on the example of cities.
+[05/10, 3:53 pm] Abhishek Bhatt CTS: Scalar questions 
+1. How many input types of modules you can use in a single work flow.
+Answer: only one input module 
+2. What is the difference between routes and parallel splitter. 
+3. Different type of workflows in scalar
+
+
+[06/10, 3:28 pm] Abhishek Bhatt CTS: Interactive Questions
+
+1. Blocks
+    * How do you create a block?
+    * How do you create/use external blocks?
+2. Snippets
+    * How do you create snippets?
+3. Inline Variant Blocks
+    * How do you create inline variant blocks?
+4. Sections
+    * What are sections, and how do you create/use them?
+5. Inline First Match
+    * What is Inline First Match, and how does it work?
+6. Approval Process
+    * Have you worked on the approval process in Interactive?
+7. Tickets / Forms / Template Process
+    * Have you worked on creating tickets through the Interactive process?
+    * Have you worked with forms?
+    * Or have you worked only on the template process?
+[06/10, 3:28 pm] Abhishek Bhatt CTS: 1. How to create a user in ICM
+2. How to create package and change set and difference between both.
+3. How to create branches.
+4. How to compare workflow.
+5. How to create master template end to end process.
+6. Difference between 1-1 and 1- many merger with example.
+7. XML module functions.
+8. Why we use sheets.
+9. Table properties in layout.
+10. Imposition module and script library.
+11. Sheet mixer and sheet duplexer.
+12. How we can create Table of content.
+13. Output module and error handling.
+14. Internal external block.
+15. Snippet and attachments.
+16. Tickets.
